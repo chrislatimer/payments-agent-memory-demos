@@ -58,7 +58,7 @@ Everything above that marker is for the analyst. The block below it is shown to 
 cardholder verbatim.`;
 
 export const paymentInvestigator: Demo = {
-  rank: 4,
+  rank: 1,
   slug: 'payment-investigator',
   title: 'AI Payment Investigator',
   capability: 'Institutional memory: knowledge distilled across many customers’ resolved cases, applied to a customer with no relevant history of their own.',

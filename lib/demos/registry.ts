@@ -12,10 +12,10 @@ import { sarInvestigator, sarAuditor } from './sar-auditor';
 // The investigator and the auditor share one surface at /demos/sar, so the
 // gallery lists them once.
 export const DEMOS: Demo[] = [
-  { ...sarAuditor, slug: 'sar', title: 'AI Auditor', capability: 'Tests completed AML investigations against a controlled procedure, citing the verbatim activity record Hindsight holds as evidence.' },
-  pointsAssistant,
-  wireException,
   paymentInvestigator,
+  wireException,
+  pointsAssistant,
+  { ...sarAuditor, slug: 'sar', title: 'AI Auditor', capability: 'Tests completed AML investigations against a controlled procedure, citing the verbatim activity record Hindsight holds as evidence.' },
 ];
 export const SAR_SPECS = { investigator: sarInvestigator, auditor: sarAuditor };
 

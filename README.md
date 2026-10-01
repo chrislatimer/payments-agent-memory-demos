@@ -24,10 +24,10 @@ Each demo shows a different job for that memory:
 
 | | Demo | What memory does here |
 |---|---|---|
-| #1 | AI Auditor | The record of what an agent actually did |
-| #2 | AI Points Spender | A profile of one customer, built across sessions |
-| #3 | AI Payment Exception Resolver | Past support conversations with this customer |
-| #4 | AI Payment Investigator | Knowledge distilled across many customers' resolved cases |
+| #1 | AI Payment Investigator | Knowledge distilled across many customers' resolved cases |
+| #2 | AI Payment Exception Resolver | Past support conversations with this customer |
+| #3 | AI Points Spender | A profile of one customer, built across sessions |
+| #4 | AI Auditor | The record of what an agent actually did |
 
 ---
 
@@ -60,7 +60,7 @@ Then open **http://localhost:3005** and pick a demo.
 
 ## What to try
 
-### #4 — AI Payment Investigator
+### #1 — AI Payment Investigator
 
 A cardholder disputes `NORTHBEAM DIG*4471 — $479.88`. She has never heard of Northbeam
 Digital, and neither has the bank in any useful sense: the descriptor resolves to a legal
@@ -81,7 +81,7 @@ Then switch the scenario to **Marcus Bell**, who has no such history, and run it
 memory on. The agent runs the same play, the records refuse to confirm it, and it stays
 on the fraud path. Memory is a search strategy, not a verdict.
 
-### #3 — AI Payment Exception Resolver
+### #2 — AI Payment Exception Resolver
 
 A $420,000 wire to Mexico came back. The message is the real-world one: *"Returned by the
 beneficiary bank. Please contact Global Payments Support."*
@@ -95,7 +95,7 @@ from March, compares the two beneficiary records the bank holds, finds the missi
 and offers to prepare a replacement wire. Approve it and look at the draft: `submitted:
 false`. Nothing moves $420,000 on an agent's conclusion.
 
-### #2 — AI Points Spender
+### #3 — AI Points Spender
 
 No memory toggle here. The device is **New chat**, which clears the transcript and keeps
 the memory.
@@ -115,7 +115,7 @@ will suggest a cheaper redemption instead of telling you to go shopping.
 **Press "Forget everything" before demoing this to someone else**, or it opens already
 knowing about Hawaii.
 
-### #1 — AI Auditor
+### #4 — AI Auditor
 
 Three parts, and the finale of the session.
 
@@ -179,28 +179,28 @@ npm run scenario sar-investigate live             # investigate the open alert
 ### Resetting
 
 ```bash
-npm run reset:rewards                  # demo #2 — wipes the customer profile
-npm run seed:sar:memory -- --fresh     # demo #1 — back to six closed cases
-npm run seed:memory -- --fresh         # demo #4
-npm run seed:memory:wires -- --fresh   # demo #3
+npm run reset:rewards                  # demo #3 — wipes the customer profile
+npm run seed:sar:memory -- --fresh     # demo #4 — back to six closed cases
+npm run seed:memory -- --fresh         # demo #1
+npm run seed:memory:wires -- --fresh   # demo #2
 ```
 
-Demo #2 writes memory live, so it accumulates whatever you say to it. The others only
+Demo #3 writes memory live, so it accumulates whatever you say to it. The others only
 read, except the SAR investigator which appends one record per run.
 
 ---
 
 ## Honest notes
 
-- **Demo #4's memory is distilled, not written.** The seed retains nine resolved case
+- **Demo #1's memory is distilled, not written.** The seed retains nine resolved case
   records and lets Hindsight derive the knowledge page from them. The facts the demo
   turns on — the brands behind the billing entity, the annual cadence, that the descriptor
   suffix rotates per billing run — are its conclusions, not text anyone typed.
 - **Agents are non-deterministic.** Tool-call counts vary between identical runs even at
-  temperature 0. Outcomes have been stable in testing, but if you run demo #4 cold enough
+  temperature 0. Outcomes have been stable in testing, but if you run demo #1 cold enough
   times it will occasionally volunteer a guess it cannot support.
 - **Hindsight's async mental-model refresh does not currently complete against cloud.**
-  Demo #2 falls back to a synchronous dry-run refresh, which computes the identical
+  Demo #3 falls back to a synchronous dry-run refresh, which computes the identical
   distillation. The profile you see is genuinely Hindsight's.
 - **Failures are attributed on screen.** A model-provider error renders as *"Google Gemini
   API failed — HTTP 503. This is the language model provider, not Hindsight."* The model

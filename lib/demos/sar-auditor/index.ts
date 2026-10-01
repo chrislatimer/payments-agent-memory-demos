@@ -58,7 +58,7 @@ day deadline. Where the customer's risk rating or monitoring changes as a result
 with the references and figures. This is the evidence, not the answer.>`;
 
 export const sarInvestigator: Demo = {
-  rank: 1, slug: 'sar-investigator', title: 'AML Investigation Agent',
+  rank: 4, slug: 'sar-investigator', title: 'AML Investigation Agent',
   capability: 'Works a SAR alert through a controlled procedure. Its full activity timeline is recorded as the evidence the auditor later tests.',
   systemPrompt: investigatorPrompt,
   declarations: investigatorDecls,
@@ -109,7 +109,7 @@ Report each finding as: the control id, whether it was satisfied, the quoted evi
 and what the consequence was.`;
 
 export const sarAuditor: Demo = {
-  rank: 1, slug: 'sar-auditor', title: 'AI Auditor',
+  rank: 4, slug: 'sar-auditor', title: 'AI Auditor',
   capability: 'Tests completed investigations against the controlled procedure, citing the verbatim activity record Hindsight holds as evidence.',
   systemPrompt: auditorPrompt,
   declarations: auditorDecls,

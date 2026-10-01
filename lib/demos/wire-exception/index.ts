@@ -92,7 +92,7 @@ One word, nothing else.
 not yet been asked to prepare a replacement, end by offering to prepare one.>`;
 
 export const wireException: Demo = {
-  rank: 3,
+  rank: 2,
   slug: 'wire-exception',
   title: 'AI Payment Exception Resolver',
   capability:

@@ -55,7 +55,7 @@ The rule that matters most:
 Keep replies short. Markdown is fine. No preamble, no restating the question.`;
 
 export const pointsAssistant: Demo = {
-  rank: 2,
+  rank: 3,
   slug: 'points-assistant',
   title: 'AI Points Spender',
   capability: 'Per-user memory across sessions: what this customer is saving for and what they were already going to buy.',
