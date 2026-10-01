@@ -156,8 +156,8 @@ export default function SarDemo({ alerts, policy, controls, auditPrompts }: {
                 </thead>
                 <tbody>
                   {alerts.map((a) => (
-                    <tr key={a.sar_id} className="border-b border-neutral-200 align-top">
-                      <td className="whitespace-nowrap py-2.5 pr-4 font-mono text-neutral-700">{a.sar_id}</td>
+                    <tr key={a.sar_id} className="border-b border-neutral-200 align-middle [&>td]:py-2.5">
+                      <td className="whitespace-nowrap pr-4 font-mono text-neutral-700">{a.sar_id}</td>
                       <td className="pr-4 text-neutral-900">{a.subject}</td>
                       <td className="pr-4 text-neutral-500">{a.typology}</td>
                       <td className="whitespace-nowrap pr-4 text-right tabular-nums text-neutral-700">{usd(a.inbound_total_usd)}</td>
@@ -168,7 +168,7 @@ export default function SarDemo({ alerts, policy, controls, auditPrompts }: {
                           {a.status.toLowerCase()}
                         </span>
                       </td>
-                      <td className="pl-2 text-right">
+                      <td className="text-right">
                         {a.status === 'OPEN' && (
                           <button disabled={busy}
                             onClick={() => run({ mode: 'investigate', sar_id: a.sar_id, prompt: `Investigate alert ${a.sar_id}. The subject is ${a.subject_id}.` }, `Investigating ${a.sar_id}`)}
