@@ -1,0 +1,26 @@
+[
+  {
+    "policy_id": "POL-FRAUD-CNP",
+    "reason_code_family": "FRAUD",
+    "title": "Unrecognised card-absent transaction",
+    "required_steps": [
+      "Retrieve the transaction and resolve the statement descriptor to a merchant.",
+      "Review the cardholder transaction history for related or originating activity before concluding the charge is unrecognised.",
+      "Compare any ship-to data against addresses on file.",
+      "Escalate as suspected fraud only if no originating relationship can be established.",
+      "Record the evidence supporting the recommendation.",
+      "Human analyst approval is required before a chargeback is filed."
+    ]
+  },
+  {
+    "policy_id": "POL-CANCELLED-RECURRING",
+    "reason_code_family": "CONSUMER_DISPUTE",
+    "title": "Cancelled recurring transaction",
+    "required_steps": [
+      "Confirm the cardholder authorised the original recurring agreement.",
+      "Establish the date and channel of the cancellation request.",
+      "Route to merchant billing dispute rather than the fraud path.",
+      "Human analyst approval is required before provisional credit."
+    ]
+  }
+]

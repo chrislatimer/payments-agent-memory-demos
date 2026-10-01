@@ -1,0 +1,37 @@
+[
+  {
+    "descriptor": "LYFT *COMFORT 09-29",
+    "date": "2026-09-30",
+    "points": 174.8,
+    "amount": 34.96,
+    "earn": "5x earn"
+  },
+  {
+    "descriptor": "LYFT *COMFORT 09-29",
+    "date": "2026-09-30",
+    "points": 264.6,
+    "amount": 52.92,
+    "earn": "5x earn"
+  },
+  {
+    "descriptor": "UBER *TRIP",
+    "date": "2026-09-29",
+    "points": 88.97,
+    "amount": 88.97,
+    "earn": "1x earn"
+  },
+  {
+    "descriptor": "HARBOR GRO 214",
+    "date": "2026-09-27",
+    "points": 412.5,
+    "amount": 137.5,
+    "earn": "3x earn"
+  },
+  {
+    "descriptor": "LINDEN FUEL #88",
+    "date": "2026-09-25",
+    "points": 61.2,
+    "amount": 61.2,
+    "earn": "1x earn"
+  }
+]

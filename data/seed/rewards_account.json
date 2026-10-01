@@ -1,0 +1,37 @@
+{
+  "customer_id": "C-LATIMER",
+  "display_name": "C. LATIMER",
+  "card": "Crestline Rewards Visa",
+  "card_last4": "6410",
+  "available_points": 564446,
+  "pending_points": 10963,
+  "earnings_cycle": "Since Jan 2026 statement cycle",
+  "earnings_total": 74522,
+  "earnings_breakdown": [
+    {
+      "label": "1 point on every purchase",
+      "points": 54434,
+      "colour": "#1668d4"
+    },
+    {
+      "label": "+4 pts on 5x categories",
+      "points": 6132,
+      "colour": "#b43fb4"
+    },
+    {
+      "label": "+1 pt on 2x categories",
+      "points": 630,
+      "colour": "#e8701a"
+    },
+    {
+      "label": "+4 pts on ride share",
+      "points": 0,
+      "colour": "#17a2b8"
+    },
+    {
+      "label": "All other earnings",
+      "points": 13326,
+      "colour": "#8a8f98"
+    }
+  ]
+}

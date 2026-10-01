@@ -1,0 +1,32 @@
+[
+  {
+    "corridor": "US->MX",
+    "beneficiary_bank_country": "MX",
+    "required_beneficiary_fields": [
+      "name",
+      "account (CLABE)",
+      "address.line1",
+      "address.neighbourhood",
+      "address.postal_code",
+      "address.city",
+      "address.country"
+    ],
+    "optional_beneficiary_fields": [
+      "tax_id (RFC)"
+    ],
+    "notes": "A returned wire cannot be repaired and must be resubmitted as a new payment. Individual beneficiary banks may apply stricter beneficiary detail requirements than the corridor minimum, including value thresholds above which additional identifiers are demanded. Crestline does not hold per-institution requirements or thresholds."
+  },
+  {
+    "corridor": "US->NO",
+    "beneficiary_bank_country": "NO",
+    "required_beneficiary_fields": [
+      "name",
+      "account (IBAN)",
+      "address.line1",
+      "address.postal_code",
+      "address.city"
+    ],
+    "optional_beneficiary_fields": [],
+    "notes": "IBAN required."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "code": "BNF_INFO_17",
+    "title": "Beneficiary information incomplete",
+    "description": "The beneficiary bank rejected the payment because the beneficiary details supplied did not meet its requirements. The beneficiary bank does not state which field was deficient.",
+    "repairable": false
+  },
+  {
+    "code": "FMT_09",
+    "title": "Message format error",
+    "description": "The payment message failed validation at the receiving institution.",
+    "repairable": true
+  },
+  {
+    "code": "ACC_CLOSED_04",
+    "title": "Beneficiary account closed",
+    "description": "The beneficiary account is no longer open.",
+    "repairable": false
+  }
+]

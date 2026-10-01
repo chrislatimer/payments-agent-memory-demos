@@ -1,0 +1,18 @@
+[
+  {
+    "customer_id": "CORP-014",
+    "legal_name": "Brightmoor Industrial Supply Inc",
+    "users": [
+      {
+        "user_id": "U-331",
+        "name": "Renata Alves",
+        "role": "Treasury Manager"
+      },
+      {
+        "user_id": "U-402",
+        "name": "Doug Pyne",
+        "role": "Accounts Payable"
+      }
+    ]
+  }
+]

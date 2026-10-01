@@ -1,0 +1,27 @@
+[
+  {
+    "option": "Crestline Travel portal",
+    "cents_per_point": 1.25,
+    "note": "Book any flight or hotel at a fixed rate."
+  },
+  {
+    "option": "Transfer to airline partners",
+    "cents_per_point": null,
+    "note": "Variable. Best value on premium cabins; worst on economy."
+  },
+  {
+    "option": "Gift cards",
+    "cents_per_point": 1,
+    "note": "175+ retailers."
+  },
+  {
+    "option": "Apple purchases",
+    "cents_per_point": 0.8,
+    "note": "Pay for all or part of an Apple purchase."
+  },
+  {
+    "option": "Statement credit",
+    "cents_per_point": 1,
+    "note": "Cash back against your balance."
+  }
+]

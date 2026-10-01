@@ -1,0 +1,191 @@
+[
+  {
+    "merchant_id": "M-0412",
+    "legal_name": "Northbeam Digital LLC",
+    "mcc": "5817",
+    "mcc_description": "Digital Goods — Applications",
+    "city": "Wilmington",
+    "state": "DE",
+    "merchant_of_record": true
+  },
+  {
+    "merchant_id": "M-0533",
+    "legal_name": "Cloverpoint Commerce LLC",
+    "mcc": "5817",
+    "mcc_description": "Digital Goods — Applications",
+    "city": "Dover",
+    "state": "DE",
+    "merchant_of_record": true
+  },
+  {
+    "merchant_id": "M-0619",
+    "legal_name": "Alder & Vance Billing Services Inc",
+    "mcc": "7399",
+    "mcc_description": "Business Services",
+    "city": "Reno",
+    "state": "NV",
+    "merchant_of_record": true
+  },
+  {
+    "merchant_id": "M-1001",
+    "legal_name": "Harbor Grocers #214",
+    "mcc": "5411",
+    "mcc_description": "Grocery Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1002",
+    "legal_name": "Linden Fuel Mart",
+    "mcc": "5541",
+    "mcc_description": "Service Stations",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1003",
+    "legal_name": "Cafe Ostra",
+    "mcc": "5812",
+    "mcc_description": "Eating Places",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1004",
+    "legal_name": "Northstar Wireless",
+    "mcc": "4814",
+    "mcc_description": "Telecommunication",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1005",
+    "legal_name": "Streamflix Media",
+    "mcc": "5815",
+    "mcc_description": "Digital Streaming",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1006",
+    "legal_name": "Ridgeline Fitness",
+    "mcc": "7997",
+    "mcc_description": "Health Clubs",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1007",
+    "legal_name": "Cloudvault Storage",
+    "mcc": "5817",
+    "mcc_description": "Digital Goods",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1008",
+    "legal_name": "Audiobooks Now",
+    "mcc": "5942",
+    "mcc_description": "Book Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1009",
+    "legal_name": "Petfood Direct",
+    "mcc": "5995",
+    "mcc_description": "Pet Shops",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1010",
+    "legal_name": "Vireo Shop",
+    "mcc": "5732",
+    "mcc_description": "Electronics Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1011",
+    "legal_name": "Bayline Transit",
+    "mcc": "4111",
+    "mcc_description": "Transportation",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1012",
+    "legal_name": "Quill & Press",
+    "mcc": "5942",
+    "mcc_description": "Book Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1013",
+    "legal_name": "Marrow Pharmacy",
+    "mcc": "5912",
+    "mcc_description": "Drug Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1014",
+    "legal_name": "Tidewater Power",
+    "mcc": "4900",
+    "mcc_description": "Utilities",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1015",
+    "legal_name": "Foxglove Hardware",
+    "mcc": "5200",
+    "mcc_description": "Home Supply",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1016",
+    "legal_name": "Sable Coffee Co",
+    "mcc": "5812",
+    "mcc_description": "Eating Places",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1017",
+    "legal_name": "Orchard Lane Market",
+    "mcc": "5411",
+    "mcc_description": "Grocery Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  },
+  {
+    "merchant_id": "M-1018",
+    "legal_name": "Kestrel Audio Shop",
+    "mcc": "5732",
+    "mcc_description": "Electronics Stores",
+    "city": "Various",
+    "state": "US",
+    "merchant_of_record": false
+  }
+]

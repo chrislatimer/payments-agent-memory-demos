@@ -1,0 +1,410 @@
+[
+  {
+    "customer_id": "C-2041",
+    "name": "Dana Whitfield",
+    "city": "Portland",
+    "state": "OR",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "1140 SE Alder St Apt 3",
+        "city": "Portland",
+        "state": "OR",
+        "postal": "97214"
+      }
+    ],
+    "card_last4": "6612",
+    "customer_since": "2019-04-02"
+  },
+  {
+    "customer_id": "C-2098",
+    "name": "Marcus Bell",
+    "city": "Columbus",
+    "state": "OH",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "822 Hollis Ave",
+        "city": "Columbus",
+        "state": "OH",
+        "postal": "43206"
+      }
+    ],
+    "card_last4": "9074",
+    "customer_since": "2021-11-17"
+  },
+  {
+    "customer_id": "C-1884",
+    "name": "Ana Reyes",
+    "city": "Tucson",
+    "state": "AZ",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "670 Main St",
+        "city": "Tucson",
+        "state": "AZ",
+        "postal": "85716"
+      }
+    ],
+    "card_last4": "9125",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-1902",
+    "name": "Theo Kaminski",
+    "city": "Albany",
+    "state": "NY",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "817 Main St",
+        "city": "Albany",
+        "state": "NY",
+        "postal": "12208"
+      }
+    ],
+    "card_last4": "8377",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-1915",
+    "name": "Priya Raman",
+    "city": "Durham",
+    "state": "NC",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "270 Main St",
+        "city": "Durham",
+        "state": "NC",
+        "postal": "27705"
+      }
+    ],
+    "card_last4": "9726",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-1940",
+    "name": "Dale Osorio",
+    "city": "Fresno",
+    "state": "CA",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "814 Main St",
+        "city": "Fresno",
+        "state": "CA",
+        "postal": "93704"
+      }
+    ],
+    "card_last4": "2439",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-1977",
+    "name": "Grace Nwosu",
+    "city": "Baltimore",
+    "state": "MD",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "345 Main St",
+        "city": "Baltimore",
+        "state": "MD",
+        "postal": "21218"
+      }
+    ],
+    "card_last4": "8324",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-2003",
+    "name": "Henry Pike",
+    "city": "Boise",
+    "state": "ID",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "669 Main St",
+        "city": "Boise",
+        "state": "ID",
+        "postal": "83702"
+      }
+    ],
+    "card_last4": "8001",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-2019",
+    "name": "Lena Brandt",
+    "city": "Madison",
+    "state": "WI",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "848 Main St",
+        "city": "Madison",
+        "state": "WI",
+        "postal": "53703"
+      }
+    ],
+    "card_last4": "3315",
+    "customer_since": "2020-06-01"
+  },
+  {
+    "customer_id": "C-2110",
+    "name": "Omar Haddad",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "200 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "10000"
+      }
+    ],
+    "card_last4": "2000",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2111",
+    "name": "Ruth Delgado",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "207 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "10311"
+      }
+    ],
+    "card_last4": "2037",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2112",
+    "name": "Simon Okafor",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "214 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "10622"
+      }
+    ],
+    "card_last4": "2074",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2113",
+    "name": "Tess Lindqvist",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "221 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "10933"
+      }
+    ],
+    "card_last4": "2111",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2114",
+    "name": "Victor Moreau",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "228 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "11244"
+      }
+    ],
+    "card_last4": "2148",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2115",
+    "name": "Wren Ashby",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "235 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "11555"
+      }
+    ],
+    "card_last4": "2185",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2116",
+    "name": "Yuki Tanabe",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "242 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "11866"
+      }
+    ],
+    "card_last4": "2222",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2117",
+    "name": "Zane Petrov",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "249 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "12177"
+      }
+    ],
+    "card_last4": "2259",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2118",
+    "name": "Beatriz Alves",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "256 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "12488"
+      }
+    ],
+    "card_last4": "2296",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2119",
+    "name": "Caleb Nunes",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "263 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "12799"
+      }
+    ],
+    "card_last4": "2333",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2120",
+    "name": "Delia Marsh",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "270 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "13110"
+      }
+    ],
+    "card_last4": "2370",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2121",
+    "name": "Evan Boyle",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "277 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "13421"
+      }
+    ],
+    "card_last4": "2407",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2122",
+    "name": "Fiona Castell",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "284 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "13732"
+      }
+    ],
+    "card_last4": "2444",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2123",
+    "name": "Gideon Marr",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "291 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "14043"
+      }
+    ],
+    "card_last4": "2481",
+    "customer_since": "2022-01-15"
+  },
+  {
+    "customer_id": "C-2124",
+    "name": "Hana Sato",
+    "city": "Various",
+    "state": "US",
+    "addresses": [
+      {
+        "label": "home",
+        "line1": "298 Elm St",
+        "city": "Various",
+        "state": "US",
+        "postal": "14354"
+      }
+    ],
+    "card_last4": "2518",
+    "customer_since": "2022-01-15"
+  }
+]

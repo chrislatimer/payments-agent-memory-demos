@@ -1,0 +1,106 @@
+[
+  {
+    "descriptor": "NORTHBEAM DIG*4471",
+    "merchant_id": "M-0412"
+  },
+  {
+    "descriptor": "NORTHBEAM DIG*2208",
+    "merchant_id": "M-0412"
+  },
+  {
+    "descriptor": "NORTHBEAM DIG*8842",
+    "merchant_id": "M-0412"
+  },
+  {
+    "descriptor": "CLOVERPT*1190",
+    "merchant_id": "M-0533"
+  },
+  {
+    "descriptor": "CLOVERPT*7725",
+    "merchant_id": "M-0533"
+  },
+  {
+    "descriptor": "AV-BILLING 3301",
+    "merchant_id": "M-0619"
+  },
+  {
+    "descriptor": "AV-BILLING 9043",
+    "merchant_id": "M-0619"
+  },
+  {
+    "descriptor": "AV-BILLING 5517",
+    "merchant_id": "M-0619"
+  },
+  {
+    "descriptor": "HARBOR GRO 214",
+    "merchant_id": "M-1001"
+  },
+  {
+    "descriptor": "LINDEN FUEL #88",
+    "merchant_id": "M-1002"
+  },
+  {
+    "descriptor": "SQ *CAFE OSTRA",
+    "merchant_id": "M-1003"
+  },
+  {
+    "descriptor": "NORTHSTAR WIRELESS",
+    "merchant_id": "M-1004"
+  },
+  {
+    "descriptor": "STREAMFLX",
+    "merchant_id": "M-1005"
+  },
+  {
+    "descriptor": "RIDGELINE FIT*MBR",
+    "merchant_id": "M-1006"
+  },
+  {
+    "descriptor": "CLOUDVAULT STOR",
+    "merchant_id": "M-1007"
+  },
+  {
+    "descriptor": "ABN*AUDIOBOOKSNOW",
+    "merchant_id": "M-1008"
+  },
+  {
+    "descriptor": "PETFOOD DIR 7781",
+    "merchant_id": "M-1009"
+  },
+  {
+    "descriptor": "VIREO SHOP",
+    "merchant_id": "M-1010"
+  },
+  {
+    "descriptor": "BAYLINE TRANSIT",
+    "merchant_id": "M-1011"
+  },
+  {
+    "descriptor": "QUILL+PRESS",
+    "merchant_id": "M-1012"
+  },
+  {
+    "descriptor": "MARROW RX 0043",
+    "merchant_id": "M-1013"
+  },
+  {
+    "descriptor": "TIDEWATER PWR EFT",
+    "merchant_id": "M-1014"
+  },
+  {
+    "descriptor": "FOXGLOVE HDW",
+    "merchant_id": "M-1015"
+  },
+  {
+    "descriptor": "TST*SABLE COFFEE",
+    "merchant_id": "M-1016"
+  },
+  {
+    "descriptor": "ORCHARD LN MKT",
+    "merchant_id": "M-1017"
+  },
+  {
+    "descriptor": "KESTREL AUDIO",
+    "merchant_id": "M-1018"
+  }
+]

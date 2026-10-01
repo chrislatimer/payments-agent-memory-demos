@@ -1,0 +1,30 @@
+[
+  {
+    "code": "10.4",
+    "family": "FRAUD",
+    "title": "Fraud — Card Absent Environment",
+    "network_response_days": 30,
+    "provisional_credit_required": true
+  },
+  {
+    "code": "13.1",
+    "family": "CONSUMER_DISPUTE",
+    "title": "Merchandise or Services Not Received",
+    "network_response_days": 30,
+    "provisional_credit_required": false
+  },
+  {
+    "code": "13.2",
+    "family": "CONSUMER_DISPUTE",
+    "title": "Cancelled Recurring Transaction",
+    "network_response_days": 30,
+    "provisional_credit_required": false
+  },
+  {
+    "code": "13.7",
+    "family": "CONSUMER_DISPUTE",
+    "title": "Cancelled Merchandise or Services",
+    "network_response_days": 30,
+    "provisional_credit_required": false
+  }
+]

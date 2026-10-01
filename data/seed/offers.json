@@ -1,0 +1,42 @@
+[
+  {
+    "offer_id": "OF-4412",
+    "merchant": "Home Depot",
+    "category": "Home improvement",
+    "multiplier": 4,
+    "ends": "2026-10-31",
+    "cap_spend": 50000
+  },
+  {
+    "offer_id": "OF-4418",
+    "merchant": "Apple",
+    "category": "Electronics",
+    "multiplier": 2,
+    "ends": "2026-11-15",
+    "cap_spend": 10000
+  },
+  {
+    "offer_id": "OF-4390",
+    "merchant": "Lyft",
+    "category": "Rideshare",
+    "multiplier": 5,
+    "ends": "2027-03-31",
+    "cap_spend": null
+  },
+  {
+    "offer_id": "OF-4401",
+    "merchant": "Grocery (all)",
+    "category": "Grocery",
+    "multiplier": 3,
+    "ends": "2026-12-31",
+    "cap_spend": 6000
+  },
+  {
+    "offer_id": "OF-4425",
+    "merchant": "Crestline Travel",
+    "category": "Travel portal",
+    "multiplier": 3,
+    "ends": "2026-12-31",
+    "cap_spend": null
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "subject_id": "SUB-3301",
+    "legal_name": "Vantor Logistics LLC",
+    "known_identifiers": [
+      "Vantor Logistics LLC",
+      "Vantor Logistik LLC",
+      "Vantor Freight Services",
+      "EIN 84-2219073"
+    ],
+    "business_type": "Freight forwarding",
+    "risk_rating": "Medium",
+    "opened": "2023-02-14",
+    "expected_activity": {
+      "monthly_inbound_usd": 180000,
+      "monthly_outbound_usd": 165000,
+      "typical_counterparties": 12,
+      "corridors": [
+        "US",
+        "CA",
+        "MX"
+      ]
+    }
+  },
+  {
+    "subject_id": "SUB-3318",
+    "legal_name": "Harrow & Lisk Trading Co",
+    "known_identifiers": [
+      "Harrow & Lisk Trading Co",
+      "EIN 47-5521188"
+    ],
+    "business_type": "Commodity trading",
+    "risk_rating": "High",
+    "opened": "2021-08-03",
+    "expected_activity": {
+      "monthly_inbound_usd": 900000,
+      "monthly_outbound_usd": 880000,
+      "typical_counterparties": 30,
+      "corridors": [
+        "US",
+        "GB",
+        "AE",
+        "SG"
+      ]
+    }
+  },
+  {
+    "subject_id": "SUB-3342",
+    "legal_name": "Quietwater Dental Group PC",
+    "known_identifiers": [
+      "Quietwater Dental Group PC",
+      "EIN 20-7781044"
+    ],
+    "business_type": "Dental practice",
+    "risk_rating": "Low",
+    "opened": "2019-05-21",
+    "expected_activity": {
+      "monthly_inbound_usd": 240000,
+      "monthly_outbound_usd": 210000,
+      "typical_counterparties": 40,
+      "corridors": [
+        "US"
+      ]
+    }
+  },
+  {
+    "subject_id": "SUB-3377",
+    "legal_name": "Brightmoor Industrial Supply Inc",
+    "known_identifiers": [
+      "Brightmoor Industrial Supply Inc",
+      "EIN 36-4410992"
+    ],
+    "business_type": "Industrial supply",
+    "risk_rating": "Medium",
+    "opened": "2020-01-09",
+    "expected_activity": {
+      "monthly_inbound_usd": 1400000,
+      "monthly_outbound_usd": 1350000,
+      "typical_counterparties": 55,
+      "corridors": [
+        "US",
+        "MX",
+        "NO"
+      ]
+    }
+  },
+  {
+    "subject_id": "SUB-3390",
+    "legal_name": "Calder Peak Ventures LP",
+    "known_identifiers": [
+      "Calder Peak Ventures LP",
+      "EIN 88-1203345"
+    ],
+    "business_type": "Investment holding",
+    "risk_rating": "High",
+    "opened": "2024-11-30",
+    "expected_activity": {
+      "monthly_inbound_usd": 2500000,
+      "monthly_outbound_usd": 2400000,
+      "typical_counterparties": 8,
+      "corridors": [
+        "US",
+        "KY",
+        "CH"
+      ]
+    }
+  },
+  {
+    "subject_id": "SUB-3404",
+    "legal_name": "Rosalind Okafor",
+    "known_identifiers": [
+      "Rosalind Okafor",
+      "R. Okafor"
+    ],
+    "business_type": "Personal",
+    "risk_rating": "Low",
+    "opened": "2018-03-12",
+    "expected_activity": {
+      "monthly_inbound_usd": 14000,
+      "monthly_outbound_usd": 12500,
+      "typical_counterparties": 20,
+      "corridors": [
+        "US"
+      ]
+    }
+  },
+  {
+    "subject_id": "SUB-3415",
+    "legal_name": "Tern Bay Seafood Co",
+    "known_identifiers": [
+      "Tern Bay Seafood Co",
+      "EIN 92-3310447"
+    ],
+    "business_type": "Seafood wholesale",
+    "risk_rating": "Medium",
+    "opened": "2022-06-18",
+    "expected_activity": {
+      "monthly_inbound_usd": 420000,
+      "monthly_outbound_usd": 400000,
+      "typical_counterparties": 25,
+      "corridors": [
+        "US",
+        "CA"
+      ]
+    }
+  }
+]

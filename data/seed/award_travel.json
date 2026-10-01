@@ -1,0 +1,64 @@
+[
+  {
+    "route": "SFO-HNL",
+    "origin": "San Francisco",
+    "destination": "Honolulu",
+    "month": "2027-03",
+    "cabin": "First",
+    "points_per_seat": 350000,
+    "cash_per_seat": 23.4,
+    "airline": "Pacific Crown",
+    "notes": "Lie-flat. Limited award inventory in March."
+  },
+  {
+    "route": "SFO-HNL",
+    "origin": "San Francisco",
+    "destination": "Honolulu",
+    "month": "2027-03",
+    "cabin": "Business",
+    "points_per_seat": 175000,
+    "cash_per_seat": 23.4,
+    "airline": "Pacific Crown"
+  },
+  {
+    "route": "SFO-HNL",
+    "origin": "San Francisco",
+    "destination": "Honolulu",
+    "month": "2027-03",
+    "cabin": "Economy",
+    "points_per_seat": 60000,
+    "cash_per_seat": 23.4,
+    "airline": "Pacific Crown"
+  },
+  {
+    "route": "SFO-HNL",
+    "origin": "San Francisco",
+    "destination": "Honolulu",
+    "month": "2027-05",
+    "cabin": "First",
+    "points_per_seat": 280000,
+    "cash_per_seat": 23.4,
+    "airline": "Pacific Crown",
+    "notes": "Off-peak. Cheaper than March."
+  },
+  {
+    "route": "SFO-OGG",
+    "origin": "San Francisco",
+    "destination": "Maui",
+    "month": "2027-03",
+    "cabin": "First",
+    "points_per_seat": 365000,
+    "cash_per_seat": 23.4,
+    "airline": "Pacific Crown"
+  },
+  {
+    "route": "SFO-NRT",
+    "origin": "San Francisco",
+    "destination": "Tokyo",
+    "month": "2027-04",
+    "cabin": "Business",
+    "points_per_seat": 210000,
+    "cash_per_seat": 118.6,
+    "airline": "Pacific Crown"
+  }
+]

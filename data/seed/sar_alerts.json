@@ -1,0 +1,86 @@
+[
+  {
+    "sar_id": "SAR-2026-0412",
+    "risk_tier": 2,
+    "subject_id": "SUB-3301",
+    "typology": "Rapid movement of funds",
+    "generated": "2026-09-18",
+    "risk_score": 81,
+    "status": "INVESTIGATED",
+    "inbound_total_usd": 742000,
+    "counterparty_count": 4,
+    "narrative": "Inbound value 4.1x expected monthly volume, cleared to third parties within 48 hours."
+  },
+  {
+    "sar_id": "SAR-2026-0418",
+    "risk_tier": 1,
+    "subject_id": "SUB-3318",
+    "typology": "Unusual counterparty concentration",
+    "generated": "2026-09-19",
+    "risk_score": 74,
+    "status": "INVESTIGATED",
+    "inbound_total_usd": 1880000,
+    "counterparty_count": 3,
+    "narrative": "Three counterparties account for 92% of inbound value against a 30-counterparty baseline."
+  },
+  {
+    "sar_id": "SAR-2026-0423",
+    "risk_tier": 2,
+    "subject_id": "SUB-3342",
+    "typology": "Structuring",
+    "generated": "2026-09-21",
+    "risk_score": 68,
+    "status": "INVESTIGATED",
+    "inbound_total_usd": 46800,
+    "counterparty_count": 1,
+    "narrative": "Nine cash deposits between $4,800 and $5,400 across five branches in eight days."
+  },
+  {
+    "sar_id": "SAR-2026-0431",
+    "risk_tier": 1,
+    "subject_id": "SUB-3390",
+    "typology": "Layering through related entities",
+    "generated": "2026-09-22",
+    "risk_score": 89,
+    "status": "INVESTIGATED",
+    "inbound_total_usd": 6400000,
+    "counterparty_count": 5,
+    "narrative": "Funds cycled through five related entities, returning 94% of value to origin within nine days."
+  },
+  {
+    "sar_id": "SAR-2026-0440",
+    "risk_tier": 3,
+    "subject_id": "SUB-3404",
+    "typology": "Activity inconsistent with profile",
+    "generated": "2026-09-24",
+    "risk_score": 52,
+    "status": "INVESTIGATED",
+    "inbound_total_usd": 61500,
+    "counterparty_count": 2,
+    "narrative": "Inbound value 4.4x expected for a personal account with no stated business activity."
+  },
+  {
+    "sar_id": "SAR-2026-0447",
+    "risk_tier": 3,
+    "subject_id": "SUB-3415",
+    "typology": "Round-amount transfers",
+    "generated": "2026-09-26",
+    "risk_score": 59,
+    "status": "INVESTIGATED",
+    "inbound_total_usd": 275000,
+    "counterparty_count": 3,
+    "narrative": "Eleven inbound transfers in exact $25,000 increments from a single corridor."
+  },
+  {
+    "sar_id": "SAR-2026-0455",
+    "risk_tier": 2,
+    "subject_id": "SUB-3377",
+    "typology": "Rapid movement of funds",
+    "generated": "2026-09-29",
+    "risk_score": 66,
+    "status": "OPEN",
+    "inbound_total_usd": 980000,
+    "counterparty_count": 6,
+    "narrative": "Inbound value cleared to six counterparties within 72 hours against a 30-day baseline."
+  }
+]

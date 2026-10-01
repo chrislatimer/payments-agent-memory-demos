@@ -1,0 +1,58 @@
+[
+  {
+    "beneficiary_id": "BEN-7781",
+    "customer_id": "CORP-014",
+    "name": "Cementos Pacifico S.A. de C.V.",
+    "bank_name": "Banco del Norte",
+    "swift": "BDNRMXMM",
+    "account": "012180001234567895",
+    "country": "MX",
+    "address": {
+      "line1": "Av. Constituyentes 455",
+      "neighbourhood": "Col. Del Valle",
+      "postal_code": "64220",
+      "city": "Monterrey",
+      "region": "N.L.",
+      "country": "MX"
+    },
+    "tax_id": "CPA920314K21",
+    "created_date": "2025-06-02",
+    "created_by": "U-331"
+  },
+  {
+    "beneficiary_id": "BEN-7902",
+    "customer_id": "CORP-014",
+    "name": "Cementos Pacifico SA de CV",
+    "bank_name": "Banco del Norte",
+    "swift": "BDNRMXMM",
+    "account": "012180001234567895",
+    "country": "MX",
+    "address": {
+      "line1": "Av. Constituyentes 455",
+      "neighbourhood": "Col. Del Valle",
+      "postal_code": "64220",
+      "city": "Monterrey",
+      "region": "N.L.",
+      "country": "MX"
+    },
+    "created_date": "2026-08-14",
+    "created_by": "U-402"
+  },
+  {
+    "beneficiary_id": "BEN-6610",
+    "customer_id": "CORP-014",
+    "name": "Halvorsen Maskin AS",
+    "bank_name": "Nordbanken",
+    "swift": "NDEANOKK",
+    "account": "NO9386011117947",
+    "country": "NO",
+    "address": {
+      "line1": "Storgata 18",
+      "postal_code": "0184",
+      "city": "Oslo",
+      "country": "NO"
+    },
+    "created_date": "2024-11-20",
+    "created_by": "U-331"
+  }
+]

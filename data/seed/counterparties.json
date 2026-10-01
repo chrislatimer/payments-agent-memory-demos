@@ -1,0 +1,149 @@
+[
+  {
+    "sar_id": "SAR-2026-0412",
+    "risk_tier": 2,
+    "name": "Delta Rim Shipping Ltd",
+    "country": "AE",
+    "amount_usd": 310000
+  },
+  {
+    "sar_id": "SAR-2026-0412",
+    "risk_tier": 2,
+    "name": "Pell & Moro SARL",
+    "country": "LU",
+    "amount_usd": 188000
+  },
+  {
+    "sar_id": "SAR-2026-0412",
+    "risk_tier": 2,
+    "name": "Anchorline Cargo Inc",
+    "country": "US",
+    "amount_usd": 144000
+  },
+  {
+    "sar_id": "SAR-2026-0412",
+    "risk_tier": 2,
+    "name": "Severn Holdings Ltd",
+    "country": "CY",
+    "amount_usd": 100000
+  },
+  {
+    "sar_id": "SAR-2026-0418",
+    "risk_tier": 1,
+    "name": "Oryx Metals FZE",
+    "country": "AE",
+    "amount_usd": 880000
+  },
+  {
+    "sar_id": "SAR-2026-0418",
+    "risk_tier": 1,
+    "name": "Lindhall Commodities Pte",
+    "country": "SG",
+    "amount_usd": 620000
+  },
+  {
+    "sar_id": "SAR-2026-0418",
+    "risk_tier": 1,
+    "name": "Trent Rivers Ltd",
+    "country": "GB",
+    "amount_usd": 380000
+  },
+  {
+    "sar_id": "SAR-2026-0423",
+    "risk_tier": 2,
+    "name": "Cash deposit (branch)",
+    "country": "US",
+    "amount_usd": 46800
+  },
+  {
+    "sar_id": "SAR-2026-0431",
+    "risk_tier": 1,
+    "name": "Calder Peak Holdings II",
+    "country": "KY",
+    "amount_usd": 2100000
+  },
+  {
+    "sar_id": "SAR-2026-0431",
+    "risk_tier": 1,
+    "name": "Calder Peak Opportunities",
+    "country": "KY",
+    "amount_usd": 1700000
+  },
+  {
+    "sar_id": "SAR-2026-0431",
+    "risk_tier": 1,
+    "name": "Helvetia Nominees AG",
+    "country": "CH",
+    "amount_usd": 1400000
+  },
+  {
+    "sar_id": "SAR-2026-0431",
+    "risk_tier": 1,
+    "name": "Calder Peak Credit Ltd",
+    "country": "KY",
+    "amount_usd": 800000
+  },
+  {
+    "sar_id": "SAR-2026-0431",
+    "risk_tier": 1,
+    "name": "Marlow Street Nominees",
+    "country": "GB",
+    "amount_usd": 400000
+  },
+  {
+    "sar_id": "SAR-2026-0440",
+    "risk_tier": 3,
+    "name": "Okafor Family Trust",
+    "country": "US",
+    "amount_usd": 48000
+  },
+  {
+    "sar_id": "SAR-2026-0440",
+    "risk_tier": 3,
+    "name": "Greenhill Realty LLC",
+    "country": "US",
+    "amount_usd": 13500
+  },
+  {
+    "sar_id": "SAR-2026-0447",
+    "risk_tier": 3,
+    "name": "North Reach Fisheries",
+    "country": "CA",
+    "amount_usd": 175000
+  },
+  {
+    "sar_id": "SAR-2026-0447",
+    "risk_tier": 3,
+    "name": "Bayward Cold Storage",
+    "country": "CA",
+    "amount_usd": 75000
+  },
+  {
+    "sar_id": "SAR-2026-0447",
+    "risk_tier": 3,
+    "name": "Tidemark Brokers Inc",
+    "country": "US",
+    "amount_usd": 25000
+  },
+  {
+    "sar_id": "SAR-2026-0455",
+    "risk_tier": 2,
+    "name": "Cementos Pacifico SA de CV",
+    "country": "MX",
+    "amount_usd": 420000
+  },
+  {
+    "sar_id": "SAR-2026-0455",
+    "risk_tier": 2,
+    "name": "Halvorsen Maskin AS",
+    "country": "NO",
+    "amount_usd": 260000
+  },
+  {
+    "sar_id": "SAR-2026-0455",
+    "risk_tier": 2,
+    "name": "Ridgeline Fabrication Inc",
+    "country": "US",
+    "amount_usd": 300000
+  }
+]
